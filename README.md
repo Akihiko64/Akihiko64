@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Nacelio Barbosa
 - 🔭 Atualmente trabalhando full stack
 - 🌱 Estudando NodeJS
+- ✉️ Contate-me naceliombdev@gmail.com
 
 
  <div>
